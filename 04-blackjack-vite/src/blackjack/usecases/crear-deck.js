@@ -1,5 +1,4 @@
 import _ from 'underscore';
-
 /**
  * Esta función crea un nuevo deck
  * @param {Array<String>} tiposDeCartas 
